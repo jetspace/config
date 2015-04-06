@@ -1,0 +1,7 @@
+NAME="JetSpace"
+VERSION="DEVELOPEMENT"
+ID=jetspace
+ID_LIKE=arch
+PRETTY_NAME="JetSpace (unstable)"
+HOME_URL="http://jetspace.github.io/"
+ANSI_COLOR="0;31"
